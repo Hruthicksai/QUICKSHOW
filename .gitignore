@@ -1,0 +1,9 @@
+node_modules
+.env
+client/.env
+server/.env
+
+# Local documentation & guide exports
+*.pdf
+QuickShow_*.html
+interviewqa.md
